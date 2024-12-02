@@ -10,7 +10,7 @@
 A repository to keep my various development projects and experiments. Each project is contained in its own directory with specific setup instructions and documentation. Click on the project name to navigate to its repository.
 
 | Project Name | Description |
-|-------------|-------------|
+|---------------------|---------------------|
 | [PrayerAudio](https://github.com/itsnavee/prayeraudio) 🎧 | Plays audio file at the Iqamah time, curated to my local musallah |
 
 
@@ -18,9 +18,6 @@ Feel free to use any of the code in this repository for your own projects.
 
 ---
 
-## Connect
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveedah)
-
----
-⭐ Don't forget to star this repo if you find it interesting!
