@@ -1,4 +1,4 @@
-# Personal Projects Portfolio 🚀
+# Personal Projects
 
 ![Python](.github/badges/python.svg)
 ![Status](.github/badges/status.svg)
@@ -8,27 +8,21 @@
 
 Welcome to my projects repository! This is where I showcase my various development projects and experiments.
 
-## Projects Overview 📋
-
-| Project Name | Description | Status | Tech Stack |
-|-------------|-------------|---------|------------|
-| [PrayerAudio](./prayeraudio) 🎧 | Audio platform for prayers and spiritual content | In Development | - |
-
-## Getting Started
+## My Projects 📋
 
 Each project is contained in its own directory with specific setup instructions and documentation. Click on the project name in the table above to navigate to its directory.
 
-## Contact
-
-Feel free to reach out if you have any questions about the projects!
+| Project Name | Description | Status | Tech Stack |
+|-------------|-------------|---------|------------|
+| [PrayerAudio](./prayeraudio) 🎧 | Audio platform for prayers and spiritual content | completed | Python |
 
 ## License
 
-Each project may have its own license. Please check individual project directories for specific licensing information.
+Feel free to use any of the code in this repository for your own projects.
 
 ---
 
-## Connect With Me 🤝
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveedah)
 
