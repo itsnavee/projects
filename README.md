@@ -10,11 +10,11 @@ Welcome to my projects repository! This is where I showcase my various developme
 
 ## My Projects 📋
 
-Each project is contained in its own directory with specific setup instructions and documentation. Click on the project name in the table above to navigate to its directory.
+Each project is contained in its own directory with specific setup instructions and documentation. Click on the project name to navigate to its repository.
 
 | Project Name | Description | Status | Tech Stack |
 |-------------|-------------|---------|------------|
-| [PrayerAudio](./prayeraudio) 🎧 | Audio platform for prayers and spiritual content | completed | Python |
+| [PrayerAudio](https://github.com/itsnavee/prayeraudio) 🎧 | Audio platform for prayers and spiritual content | completed | Python |
 
 ## License
 
